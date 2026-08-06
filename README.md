@@ -1,17 +1,17 @@
-# 100 Days of Python — My Journey 🐍
+# 100 Days of Python — My Journey 
 
 This repository contains my personal notes, code, and solved exercises
 while completing the **100 Days of Python** course by
 [CodeWithHarry](https://www.youtube.com/@CodeWithHarry) on YouTube.
 
-🎥 Course Playlist: [100 Days of Python](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
-📚 Original source code repo (by CodeWithHarry): [100-days-of-code-youtube](https://github.com/CodeWithHarry/100-days-of-code-youtube)
+Course Playlist: [100 Days of Python](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
+Original source code repo (by CodeWithHarry): [100-days-of-code-youtube](https://github.com/CodeWithHarry/100-days-of-code-youtube)
 
 > All credit for the course content and teaching goes to CodeWithHarry.
 > This repo reflects my own notes, understanding, and solved exercises
 > as I followed along.
 
-## 📅 Progress Tracker
+## Progress Tracker
 
 | Day | Topic | Notes | Code |
 |-----|-------|-------|------|
@@ -116,7 +116,7 @@ while completing the **100 Days of Python** course by
 | 99 | Exercise 11 — Solution | [notes](./99-Day99-Exercise-11-Solution/notes.md) | [code](./99-Day99-Exercise-11-Solution/exercise.py) |
 | 100 | Conclusion — Where to go from here | [notes](./100-Day100-Conclusion-Where-to-go-from-here/notes.md) | — |
 
-## 🏋️ Exercises Solved: 11/11 ✅
+## Exercises Solved: 11/11 
 
 | # | Exercise | Solved on Day |
 |---|----------|----------------|
@@ -132,11 +132,11 @@ while completing the **100 Days of Python** course by
 | 10 | — | Day 90 (attempt), Day 93 (solution) |
 | 11 | — | Day 94 (attempt), Day 99 (solution) |
 
-## 🛠️ Skills Covered
+## Skills Covered
 
 Python fundamentals → OOP (classes, inheritance, decorators, magic methods) → Exception handling → File I/O → Functional programming (lambda, map/filter/reduce) → Modules (os, shutil, time, requests, re) → Generators → AsyncIO, Multithreading & Multiprocessing.
 
-## 🙏 Credits
+## Credits
 
 - **Course & original code:** [CodeWithHarry](https://github.com/CodeWithHarry) — [100-days-of-code-youtube](https://github.com/CodeWithHarry/100-days-of-code-youtube)
 - **YouTube Playlist:** [100 Days of Python](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
