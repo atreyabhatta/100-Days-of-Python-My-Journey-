@@ -61,15 +61,3 @@ these 100 days, I will be much more confident in Python and, more
 importantly, better prepared for my journey into Data Science.
 
 **From Physics to Python to Data Science — one day at a time.**
-
-
-This day covers 5 mini projects, each in its own folder with its own
-`notes.md` and code file:
-
-1. [Jarvis Virtual Assistant](./01-Jarvis-Virtual-Assistant/)
-2. [Love Calculator](./02-Love-Calculator/)
-3. [Face Recognition](./03-Face-Recognition/)
-4. [Flappy Bird Game](./04-Flappy-Bird-Game/)
-5. [Snake Game](./05-Snake-Game/)
-
-See the overall Day 2 reflection in [notes.md](./notes.md).
